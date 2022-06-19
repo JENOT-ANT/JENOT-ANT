@@ -6,7 +6,7 @@
   - programming, (especilly in python and c++)
   - playing piano
 - 📚 I’m currently learning: GitHub environment
-- 📫 How to reach me: Thats actually a good question. Nah, just kidding, you can post a message in one of my repository's discussion.
+- 📫 How to reach me: Thats actually a good question. Nah, just kidding, you can post a message in one of my repository's discussion (for example this one).
 
 <!---
 JENOT-ANT/JENOT-ANT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
