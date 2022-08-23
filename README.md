@@ -4,7 +4,7 @@
   - cybersecurity
   - networking / net-protocols
   - programming, (especilly in python and c++)
-  - playing piano
+  - playing piano & guitar
 - 📚 I’m currently learning: GitHub environment
 - 📫 How to reach me: Thats actually a good question. Nah, just kidding, you can post a message in one of my repository's discussion (for example this one).
 
