@@ -5,7 +5,7 @@
   - networking / net-protocols
   - programming, (especilly in python and c++)
   - playing piano & guitar
-- 📚 I’m currently learning: Discord API
+- 📚 I’m currently learning: basic concepts of neural networks' architecture
 - 📫 How to reach me: Thats actually a good question. Nah, just kidding, you can post a message in one of my repository's discussion (for example this one).
 
 <!---
