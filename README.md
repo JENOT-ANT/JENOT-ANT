@@ -9,8 +9,7 @@
 <!---neural networks' architecture--->
 - 📫 **How to reach me:** Thats actually a good question. Nah, just kidding, you can post a message in one of my repository's discussion (for example this one) or drop me an email (`JenotAnt@proton.me`).
 - 🔑 **And last, but not least my rsa1024 public key**:
-  > In case you need to verify my messages, or encrypt yours.
-  
+  > In case you need to verify my messages, or encrypt yours. You can also use [my rsa2048 key](/PGP-rsa2048.asc).
   ```
   -----BEGIN PGP PUBLIC KEY BLOCK-----
   
