@@ -5,7 +5,7 @@
   - networking / net-protocols
   - programming, (especilly in python and c++)
   - playing piano & guitar
-- 📚 **I’m currently learning:** basic concepts of LLMs
+- 📚 **I’m currently learning:** about CPU and hardware
 <!---neural networks' architecture--->
 - 📫 **How to reach me:** Thats actually a good question. Nah, just kidding, you can post a message in one of my repository's discussion (for example this one) or drop me an email (`JenotAnt@proton.me`).
 - 🔑 **And last, but not least my rsa1024 public key**:
