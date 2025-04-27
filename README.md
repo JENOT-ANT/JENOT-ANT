@@ -1,7 +1,6 @@
 - 👋 **Hi, I’m Antek**
 - 👀 **I’m interested in:**
   - ethical hacking
-  - cybersecurity
   - networking / net-protocols
   - programming, (especilly in python and c++)
   - playing piano & guitar
